@@ -1,0 +1,6 @@
+{
+  "name": "مذكراتي الذكية - Voice Notes & Scheduled Reminders",
+  "description": "تطبيق مذكرات صوتية ذكية مع جدولة تنبيهات وإشعارات، محرك بيانات Room محلي، ومساعد ذكي لاستخراج المهام والمواعيد.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
